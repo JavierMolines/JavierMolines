@@ -20,7 +20,7 @@ Aveces mirar hacia atras nos potencia para ir mucho mas lejos.
 * **Desarrollo IoT**
 * **Desarrollo FrontEnd**
 
-## Algunos de las cosas que me gustan fuera de la tecnologia
+## Algunas de las cosas que me gustan fuera de la tecnologia
 
 * **Dragon Ball** 
 * **Ajedrez**
