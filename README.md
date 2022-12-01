@@ -4,23 +4,18 @@ Soy un joven developer que le encanta programar :D. En mi repositorio tengo proy
 
 Aveces mirar hacia atras nos potencia para ir mucho mas lejos.
 
-## Las principales tecnologias que manejo son:
+## Mis herramientas de npm
+
+https://www.npmjs.com/~javimoldev
+
+### Las principales tecnologias que manejo son:
 
 * **HTML** 
 * **CSS**
 * **TypeScript**
 * **NodeJs**
-* **Python**
 
-## Areas a las que me dedico:
-
-* **Desarrollo Backend**
-* **CiberSeguridad / HackingEtico**
-* **MachineLearning**
-* **Desarrollo IoT**
-* **Desarrollo FrontEnd**
-
-## Algunas de las cosas que me gustan fuera de la tecnologia
+### Algunas de las cosas que me gustan fuera de la tecnologia
 
 * **Dragon Ball** 
 * **Ajedrez**
