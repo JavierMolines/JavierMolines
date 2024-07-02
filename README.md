@@ -8,6 +8,8 @@
 
 <h1 align="center">Proyectos OpenSource</h1>
 
+> Manejador de Portapapeles => **[🔗 LINK](https://clipboard.javiermolines.com/)** **[💻 CODE](https://github.com/JavierMolines/clipboard)**
+
 > Filtro de maquinas => **[🔗 LINK](https://infosecmachines.io/)** **[💻 CODE](https://github.com/JavierMolines/hack4u-machines)**
 
 > Reloj online de ajedrez => **[🔗 LINK](https://onlinechessclock.dev/)** **[💻 CODE](https://github.com/JavierMolines/chess-clock)**
